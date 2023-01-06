@@ -1,0 +1,3 @@
+[submodule "alura-tailwind"]
+	path = alura-tailwind
+	url = https://github.com/carlosquadros-br/alura-tailwind.git
